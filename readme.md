@@ -11,7 +11,7 @@ This is a real-time chat application built with React for the frontend and Node.
 
 
 ## Getting Started
-    Below are the installation steps for starting backend/frontend server:
+Below are the installation steps for starting backend/frontend server:
 
 ### Installation
 
