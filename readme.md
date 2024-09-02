@@ -16,20 +16,14 @@ Below are the installation steps for starting backend/frontend server:
 ### Installation
 
 #### Backend
-
-    ```
     cd chatapp-backend-main
     npm install
     npm run dev
-    ```
 
 #### Frontend
-
-    ```
     cd chatapp-frontend-main
     npm install
     npm run dev
-    ```
 
 ### NOTE
 The frontend will be running at `http://localhost:5173` once frontend server is started.
